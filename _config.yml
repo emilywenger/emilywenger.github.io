@@ -4,9 +4,9 @@
 title: Emily Wenger
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+baseurl: "/personal_website" # the subpath of the site
+url: "https://emilywenger.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/emily-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
