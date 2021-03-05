@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="blog">
+          <h1 class="page-heading">Recent Happenings</h1>
+          <p class="blog-post-list">
+            {% for item in page.updates %}
+            <span class="blog-post-date">{{ item.date | date: "%-m/%-d/%y" }}</span>
+            {{ item.content }}
+            <br />
+            {% endfor %}
+          </p>
+        </div>
+        <!-- </br> -->
+        <!-- <hr> -->
+        <!-- <div class="blog"> -->
+        <!--   </br> -->
+        <!--   <h1 class="page-heading">Selected Press</h1> -->
+        <!--   <\!-- TODO finish this -\-> -->
+        <!--   <p class="blog-post-list"> -->
+        <!--     {% for item in page.pressitems %} -->
+        <!--     <span class="blog-post-date">{{ item.date | date: "%-m/%-d/%y" }}</span> -->
+        <!--     {{ item.venue }}: <a href={{ item.link }} target="_blank"> -->
+        <!--     {{ item.title}} </a> ({{item.paper}}) -->
+        <!--     <br /> -->
+        <!--     {% endfor %} -->
+        <!--   </p> -->
+        <!-- </div> -->
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
