@@ -4,7 +4,6 @@ title: News
 slug: /news
 
 updates:
-
 - date: 2021-03-02
   content: Physical Backdoor paper accepted to CVPR 2021!
 
@@ -16,9 +15,6 @@ updates:
 
 - date: 2020-08-10
   content: Presented Fawkes at USENIX Security 2020!
-
-- date: 2020-08-03
-  content: An article about Fawkes was published by the <a href="https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html" target="_blank">New York Times</a>.
 
 - date: 2019-12-02
   content: Participated in MSR's <a href="https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-competition-team-7/" target="_blank">Private AI Boot Camp</a>.
@@ -36,11 +32,28 @@ updates:
 pressitems:
 
 - date: 2021-03-01
+  venue: MIT Technology Review
+  title: How to stop AI from recognizing your face in selfies
+  link: https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/
+  paper: Fawkes
+
+- date: 2020-08-04
+  venue: The Verge
+  title: Cloak your photos with this AI privacy tool to fool facial recognition
+  link: https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes
+  paper: Fawkes
+
+- date: 2020-08-03
   venue: The New York Times
-  title: This Blog's Headline
-  link: https://google.com
-  paper: Physical Backdoors
-  
+  title: This Tool Could Protect Your Photos from Facial Recognition
+  link: https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html
+  paper: Fawkes
+
+- date: 2020-03-09
+  venue: Tech by Vice
+  title: Researchers Want to Protect Your Selfies from Facial Recognition
+  link: https://www.vice.com/en/article/m7qxwq/researchers-want-to-protect-your-selfies-from-facial-recognition
+
 ---
 
 Some recent updates.

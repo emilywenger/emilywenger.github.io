@@ -24,6 +24,13 @@ publications:
 
 preprints:
 
+- title: Hello, It's Me - Deep Learning-based Speech Synthesis Attacks in the Real World
+  authors: <u>Emily Wenger</u>, Max Bronckers, Christian Cianfarani, Jenna Cryan, Angela Sha, Haitao Zheng, Ben Zhao
+  conference: In Submission
+  paperlink: NA
+  codelink: NA
+  
+
 - title: Piracy Resistant Watermarks for Deep Neural Networks
   authors: Huiying Li, <u>Emily Wenger</u>, Shawn Shan, Ben Y. Zhao, Haitao Zheng
   conference: In Submission
