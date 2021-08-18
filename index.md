@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Emily is a 3rd year PhD student in the <a href="http://sandlab.cs.uchicago.edu" target="_blank">SAND Lab</a> at the University of Chicago. She is advised by Drs. <a href="http://people.cs.uchicago.edu/~ravenben/" target= "_blank">Ben Zhao</a> and <a href="http://people.cs.uchicago.edu/~htzheng/" target="_blank">Heather Zheng</a>.
+Emily is a 3rd year PhD student in the <a href="http://sandlab.cs.uchicago.edu" target="_blank">SAND Lab</a> at the University of Chicago. She is advised by Drs. <a href="http://people.cs.uchicago.edu/~ravenben/" target= "_blank">Ben Zhao</a> and <a href="http://people.cs.uchicago.edu/~htzheng/" target="_blank">Heather Zheng</a>. In fall 2021, she is interning at Facebook AI Research (FAIR).
 </p>
 
 
