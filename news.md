@@ -4,6 +4,12 @@ title: News
 slug: /news
 
 updates:
+- date: 2021-09-20
+  content: Starting at FAIR, workin with Kristin Lauter. 
+
+- date: 2021-06-25
+  content: Gave a talk for MSR's Privacy and Cryptography group.	
+
 - date: 2021-03-02
   content: Physical Backdoor paper accepted to CVPR 2021!
 
