@@ -5,7 +5,7 @@ slug: /news
 
 updates:
 - date: 2021-09-20
-  content: Starting at FAIR, workin with Kristin Lauter. 
+  content: Starting at FAIR, working with Kristin Lauter. 
 
 - date: 2021-06-25
   content: Gave a talk for MSR's Privacy and Cryptography group.	
