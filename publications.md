@@ -4,6 +4,12 @@ title: Publications
 slug: /publications
 publications:
 
+- title: Hello, It's Me - Deep Learning-based Speech Synthesis Attacks in the Real World
+  authors: <u>Emily Wenger</u>, Max Bronckers, Christian Cianfarani, Jenna Cryan, Angela Sha, Haitao Zheng, Ben Zhao
+  conference: CCS 2021
+  paperlink: NA
+  codelink: NA
+  
 - title: Backdoor Attacks Against Deep Learning Systems in the Physical World
   authors: <u>Emily Wenger</u>, Josephine Passananti, Arjun Bhagoji, Yuanshun Yao, Haitao Zheng, Ben Y. Zhao
   conference: CVPR 2021
@@ -23,13 +29,6 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
-
-- title: Hello, It's Me - Deep Learning-based Speech Synthesis Attacks in the Real World
-  authors: <u>Emily Wenger</u>, Max Bronckers, Christian Cianfarani, Jenna Cryan, Angela Sha, Haitao Zheng, Ben Zhao
-  conference: In Submission
-  paperlink: NA
-  codelink: NA
-  
 
 - title: Piracy Resistant Watermarks for Deep Neural Networks
   authors: Huiying Li, <u>Emily Wenger</u>, Shawn Shan, Ben Y. Zhao, Haitao Zheng
