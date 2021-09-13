@@ -7,6 +7,9 @@ updates:
 - date: 2021-09-20
   content: Starting at FAIR, working with Kristin Lauter.
 
+- date: 2021-09-10
+  content: The <a href="https://detroit.sciencegallery.com/tracked-traced" target="_blank" class="blog-post-title">Tracked and Traced</a> exhibit, which I helped curate, opened at Science Gallery Detroit.
+
 - date: 2021-09-06
   content: Voice cloning attacks paper accepted to CCS 2021!
 
