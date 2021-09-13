@@ -7,6 +7,9 @@ updates:
 - date: 2021-09-20
   content: Starting at FAIR, working with Kristin Lauter.
 
+- date: 2021-09-10:
+  content: <a href="https://detroit.sciencegallery.com/tracked-traced" target="_blank" class="blog-post-title">Tracked & Traced</a>, an exhibit I helped curate, opened at Science Gallery Detriot.
+
 - date: 2021-09-06
   content: Voice cloning attacks paper accepted to CCS 2021!
 
@@ -29,10 +32,10 @@ updates:
   content: Participated in MSR's <a href="https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-competition-team-7/" target="_blank">Private AI Boot Camp</a>.
 
 - date: 2019-10-30
-  content: Invited talk at Stanford EE380 Colloquium on <a href="https://ee.stanford.edu/event/seminar/ee380-computer-systems-colloquium-presents-persistent-and-unforgeable-watermarks" target="_blank">watermarking Deep Neural Networks</a>.
+  content: Invited talk at Stanford EE380 Colloquium on <a href="https://ee.stanford.edu/event/seminar/ee380-computer-systems-colloquium-presents-persistent -and-unforgeable-watermarks" target="_blank">watermarking Deep Neural Networks</a>.
 
-- date: 2019-04-26
-  content: Plenary speaker at <a href="https://www.beyondthebinary2019.com/" target="_blank">Beyond the Binary</a> 2019 at the University of Hartford.
+# - date: 2019-04-26
+#  content: Plenary speaker at <a href="https://www.beyondthebinary2019.com/" target="_blank">Beyond the Binary</a> 2019 at the University of Hartford.
 
 - date: 2018-09-01
   content: Started at the University of Chicago!
