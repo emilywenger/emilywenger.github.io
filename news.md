@@ -34,9 +34,6 @@ updates:
 - date: 2019-10-30
   content: Invited talk at Stanford EE380 Colloquium on <a href="https://ee.stanford.edu/event/seminar/ee380-computer-systems-colloquium-presents-persistent -and-unforgeable-watermarks" target="_blank">watermarking Deep Neural Networks</a>.
 
-# - date: 2019-04-26
-#  content: Plenary speaker at <a href="https://www.beyondthebinary2019.com/" target="_blank">Beyond the Binary</a> 2019 at the University of Hartford.
-
 - date: 2018-09-01
   content: Started at the University of Chicago!
 
