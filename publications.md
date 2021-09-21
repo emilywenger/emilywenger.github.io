@@ -7,7 +7,7 @@ publications:
 - title: Hello, It's Me - Deep Learning-based Speech Synthesis Attacks in the Real World
   authors: <u>Emily Wenger</u>, Max Bronckers, Christian Cianfarani, Jenna Cryan, Angela Sha, Haitao Zheng, Ben Zhao
   conference: CCS 2021
-  paperlink: NA
+  paperlink: https://people.cs.uchicago.edu/~ravenben/publications/pdf/voiceml-ccs21.pdf
   codelink: NA
   
 - title: Backdoor Attacks Against Deep Learning Systems in the Physical World
