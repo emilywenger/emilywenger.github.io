@@ -30,8 +30,8 @@ publications:
 
 preprints:
 
-- title: Piracy Resistant Watermarks for Deep Neural Networks
-  authors: Huiying Li, <u>Emily Wenger</u>, Shawn Shan, Ben Y. Zhao, Haitao Zheng
+- title: SoK: Anti-Facial Recognition Technology
+  authors: <u>Emily Wenger</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao
   conference: In Submission
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
