@@ -30,7 +30,7 @@ publications:
 
 preprints:
 
-- title: SoK: Anti-Facial Recognition Technology
+- title: SoK - Anti-Facial Recognition Technology
   authors: <u>Emily Wenger</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao
   conference: In Submission
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
