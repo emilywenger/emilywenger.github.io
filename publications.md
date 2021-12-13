@@ -14,7 +14,7 @@ publications:
   authors: <u>Emily Wenger</u>, Josephine Passananti, Arjun Bhagoji, Yuanshun Yao, Haitao Zheng, Ben Y. Zhao
   conference: CVPR 2021
   paperlink: https://arxiv.org/pdf/2006.14580.pdf
-  codelink: https://github.com/patterson910/real_backdoor
+  codelink: NA
   
 - title: Fawkes - Protecting Privacy against Unauthorized Deep Learning Models
   authors: Shawn Shan*, <u>Emily Wenger</u>*, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao
@@ -35,7 +35,6 @@ preprints:
   conference: In Submission
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
-
 
 - title: Piracy Resistant Watermarks for Deep Neural Networks
   authors: Huiying Li, <u>Emily Wenger</u>, Shawn Shan, Ben Y. Zhao, Haitao Zheng
