@@ -17,5 +17,3 @@ Her research explores the practical limitations, privacy violations, and securit
 <p>
 Emily is the receipient of the <a href="https://stemfellowships.org/" target="_blank">GFSD</a> and <a href="https://msfdn.org/harveyfellows/overview/" target="_blank">Harvey</a> fellowships and is a University of Chicago <a href="https://grad.uchicago.edu/fellowships/neubauer-fellows/" target="_blank">Neubauer Fellow</a>. 
 </p>
-
-<p> In fall 2021, Emily is interning at Facebook AI Research <a href="https://ai.facebook.com/" target="_blank">(FAIR)</a>.</p>
