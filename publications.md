@@ -4,6 +4,13 @@ title: Publications
 slug: /publications
 publications:
 
+
+- title: Blacklight - Defending Black-Box Adversarial Attacks on Deep Neural Networks
+  authors: Huiying Li, Shawn Shan, <u>Emily Wenger</u>, Jiayun Zhang, Haitao Zheng, Ben Y. Zhao
+  conference: USENIX Security 2022
+  paperlink: https://arxiv.org/pdf/2006.14042.pdf
+  codelink: NA
+
 - title: Hello, It's Me - Deep Learning-based Speech Synthesis Attacks in the Real World
   authors: <u>Emily Wenger</u>, Max Bronckers, Christian Cianfarani, Jenna Cryan, Angela Sha, Haitao Zheng, Ben Zhao
   conference: CCS 2021
@@ -36,18 +43,17 @@ preprints:
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
 
+- title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
+  authors: <u>Emily Wenger</u>, Francesca Falzon, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
+  conference: In Submission
+  paperlink: https://arxiv.org/pdf/2202.05760.pdf
+  codelink: NA
+
 - title: Piracy Resistant Watermarks for Deep Neural Networks
   authors: Huiying Li, <u>Emily Wenger</u>, Shawn Shan, Ben Y. Zhao, Haitao Zheng
   conference: In Submission
   paperlink: https://arxiv.org/pdf/1910.01226.pdf
   codelink: NA
-
-- title: Blacklight - Defending Black-Box Adversarial Attacks on Deep Neural Networks
-  authors: Huiying Li, Shawn Shan, <u>Emily Wenger</u>, Jiayun Zhang, Haitao Zheng, Ben Y. Zhao
-  conference: In Submission
-  paperlink: https://arxiv.org/pdf/2006.14042.pdf
-  codelink: NA
-
 ---
 
 List of peer-reviewed publications below. <em>(*)</em> indicates co-first authorship.
