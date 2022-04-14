@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/emily-pic.jpg
+  src: /assets/img/wenger_headshot_final.jpg
   alt: website picture
 ---
 
