@@ -4,6 +4,9 @@ title: News
 slug: /news
 
 updates:
+-date: 2022-05-02
+  content: Paper on defenses against black box adversarial attacks accepted to USENIX 2022!
+
 - date: 2021-09-20
   content: Starting at FAIR, working with Kristin Lauter.
 
