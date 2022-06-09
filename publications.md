@@ -36,6 +36,17 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
+- title: Natural Backdoor Datasets
+  authors: Shawn Shan, Wenxin Ding, <u>Emily Wenger</u>, Haitao Zheng, Ben Y. Zhao
+  conference: In Submission
+  paperlink: NA
+  codelink: NA
+
+- title: SALSA - Attacking Lattice Cryptography with Transformers
+  authors: <u>Emily Wenger*</u>, Mingjie Chen, Francois Charton, Kristin Lauter
+  conference: In Submission
+  paperlink: NA
+  codelink: NA
 
 - title: SoK - Anti-Facial Recognition Technology
   authors: <u>Emily Wenger</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao

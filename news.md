@@ -4,6 +4,9 @@ title: News
 slug: /news
 
 updates:
+- date: 2022-06-06
+  content: Honored to receive a University of Chicago Harper Dissertation fellowship.
+  
 - date: 2022-05-02
   content: Paper on defenses against black box adversarial attacks accepted to USENIX 2022!
 
