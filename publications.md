@@ -37,6 +37,12 @@ publications:
 
 preprints:
 - title: Natural Backdoor Datasets
+  authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
+  conference: In Submission
+  paperlink: NA
+  codelink: NA
+
+- title: Post-breach Recovery - Protection against White-Box Adversarial Examples for Leaked DNN Models
   authors: Shawn Shan, Wenxin Ding, <u>Emily Wenger</u>, Haitao Zheng, Ben Y. Zhao
   conference: In Submission
   paperlink: NA
