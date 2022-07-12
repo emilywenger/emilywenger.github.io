@@ -51,7 +51,7 @@ preprints:
 - title: SALSA - Attacking Lattice Cryptography with Transformers
   authors: <u>Emily Wenger*</u>, Mingjie Chen, Francois Charton, Kristin Lauter
   conference: In Submission
-  paperlink: NA
+  paperlink: https://arxiv.org/pdf/2207.04785.pdf
   codelink: NA
 
 - title: SoK - Anti-Facial Recognition Technology
