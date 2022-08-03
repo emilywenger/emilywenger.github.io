@@ -5,7 +5,7 @@ slug: /publications
 publications:
 
 - title: SoK - Anti-Facial Recognition Technology
-  authors: <u>Emily Wengr</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao
+  authors: <u>Emily Wenger</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao
   conference: Oakland SP 2023 (to appear)
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
