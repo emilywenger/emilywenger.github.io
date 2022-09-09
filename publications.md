@@ -47,6 +47,12 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
+- title: Data Isotopes for Data Provenance in DNNs
+  authors: <u>Emily Wenger</u>, Xiuyu Li, Ben Y. Zhao, Vitaly Shmatikov
+  conference: In Submission
+  paperlink: https://arxiv.org/pdf/2208.13893.pdf
+  codelink: NA
+  
 - title: Natural Backdoor Datasets
   authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
   conference: In Submission

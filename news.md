@@ -4,6 +4,9 @@ title: News
 slug: /news
 
 updates:
+- date: 2022-09-01
+  content: Selected a member of the <a href="https://risingstars.utexas.edu/" target="_blank" class="blog-post-title">EECS Rising Stars 2022</a> cohort.
+  
 - date: 2022-06-06
   content: Honored to receive a University of Chicago Harper Dissertation fellowship.
   
