@@ -10,6 +10,12 @@ publications:
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
 
+- title: SALSA - Attacking Lattice Cryptography with Transformers
+  authors: <u>Emily Wenger*</u>, Mingjie Chen, Francois Charton, Kristin Lauter
+  conference: NeurIPS 2022 (to appear)
+  paperlink: https://arxiv.org/pdf/2207.04785.pdf
+  codelink: NA
+
 - title: Post-breach Recovery - Protection against White-Box Adversarial Examples for Leaked DNN Models
   authors: Shawn Shan, Wenxin Ding, <u>Emily Wenger</u>, Haitao Zheng, Ben Y. Zhao
   conference: CCS 2022 (to appear)
@@ -58,12 +64,6 @@ preprints:
   conference: In Submission
   paperlink: https://arxiv.org/pdf/2206.10673.pdf
   codelink: https://uchicago-sandlab.github.io/naturalbackdoors/
-
-- title: SALSA - Attacking Lattice Cryptography with Transformers
-  authors: <u>Emily Wenger*</u>, Mingjie Chen, Francois Charton, Kristin Lauter
-  conference: In Submission
-  paperlink: https://arxiv.org/pdf/2207.04785.pdf
-  codelink: NA
 
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
   authors: <u>Emily Wenger</u>, Francesca Falzon, Josephine Passananti, Haitao Zheng, Ben Y. Zhao

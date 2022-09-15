@@ -4,8 +4,14 @@ title: News
 slug: /news
 
 updates:
+- data: 2022-09-14
+  content: Paper on attacking lattice cryptography with transformers accepted to NeurIPs 2022!
+
 - date: 2022-09-01
   content: Selected a member of the <a href="https://risingstars.utexas.edu/" target="_blank" class="blog-post-title">EECS Rising Stars 2022</a> cohort.
+
+- date: 2022-08-15
+  content: Paper on post-breach model recovery accepted to CCS 2022!
   
 - date: 2022-06-06
   content: Honored to receive a University of Chicago Harper Dissertation fellowship.
