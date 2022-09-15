@@ -9,7 +9,7 @@ updates:
   content: Paper on attacking lattice cryptography with transformers accepted to NeurIPs 2022!
 
 - date: 2022-09-01
-  content: Selected a member of the <a href="https://risingstars.utexas.edu/" target="_blank" class="blog-post-title">EECS Rising Stars 2022</a> cohort.
+  content: Selected as a member of the <a href="https://risingstars.utexas.edu/" target="_blank" class="blog-post-title">EECS Rising Stars 2022</a> cohort.
 
 - date: 2022-08-15
   content: Paper on post-breach model recovery accepted to CCS 2022!
