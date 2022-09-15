@@ -11,7 +11,7 @@ publications:
   codelink: NA
 
 - title: SALSA - Attacking Lattice Cryptography with Transformers
-  authors: <u>Emily Wenger*</u>, Mingjie Chen, Francois Charton, Kristin Lauter
+  authors: <u>Emily Wenger*</u>, Mingjie Chen*, Francois Charton, Kristin Lauter
   conference: NeurIPS 2022 (to appear)
   paperlink: https://arxiv.org/pdf/2207.04785.pdf
   codelink: NA
