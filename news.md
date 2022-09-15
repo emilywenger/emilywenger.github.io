@@ -4,7 +4,8 @@ title: News
 slug: /news
 
 updates:
-- data: 2022-09-14
+
+- date: 2022-09-14
   content: Paper on attacking lattice cryptography with transformers accepted to NeurIPs 2022!
 
 - date: 2022-09-01
