@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: Publications
+title: Conference Publications
 slug: /publications
 publications:
 
@@ -15,6 +15,12 @@ publications:
   conference: NeurIPS 2022 (to appear)
   paperlink: https://arxiv.org/pdf/2207.04785.pdf
   codelink: NA
+
+- title: Finding Naturally Occuring Physical Backdoors in Image Datasets
+  authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
+  conference: NeurIPS 2022 (to appear)
+  paperlink: https://arxiv.org/pdf/2206.10673.pdf
+  codelink: https://uchicago-sandlab.github.io/naturalbackdoors/
 
 - title: Post-breach Recovery - Protection against White-Box Adversarial Examples for Leaked DNN Models
   authors: Shawn Shan, Wenxin Ding, <u>Emily Wenger</u>, Haitao Zheng, Ben Y. Zhao
@@ -59,12 +65,6 @@ preprints:
   paperlink: https://arxiv.org/pdf/2208.13893.pdf
   codelink: NA
   
-- title: Natural Backdoor Datasets
-  authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
-  conference: In Submission
-  paperlink: https://arxiv.org/pdf/2206.10673.pdf
-  codelink: https://uchicago-sandlab.github.io/naturalbackdoors/
-
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
   authors: <u>Emily Wenger</u>, Francesca Falzon, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
   conference: In Submission
