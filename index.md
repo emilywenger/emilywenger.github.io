@@ -15,5 +15,5 @@ Her research explores the practical limitations, privacy violations, and securit
 </p>
 
 <p>
-Emily is the receipient of the <a href="https://stemfellowships.org/" target="_blank">GFSD</a>, <a href="https://msfdn.org/harveyfellows/overview/" target="_blank">Harvey</a>, University of Chicago <a href="https://grad.uchicago.edu/fellowships/neubauer-fellows/" target="_blank">Neubauer</a>, and University of Chicago Harper Dissertation fellowships.
+Emily is the receipient of the <a href="https://stemfellowships.org/" target="_blank">GFSD</a>, <a href="https://msfdn.org/harveyfellows/overview/" target="_blank">Harvey</a>, University of Chicago <a href="https://grad.uchicago.edu/fellowships/neubauer-fellows/" target="_blank">Neubauer</a>, and University of Chicago Harper Dissertation fellowships, as well as a <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholarship</a>.
 </p>

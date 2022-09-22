@@ -4,6 +4,8 @@ title: News
 slug: /news
 
 updates:
+- date: 2022-09-22
+  content: Thrilled to be selected as a 2023 <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholar!</a>
 
 - date: 2022-09-14
   content: Paper on attacking lattice cryptography with transformers accepted to NeurIPs 2022!
