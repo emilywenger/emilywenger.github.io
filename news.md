@@ -7,8 +7,11 @@ updates:
 - date: 2022-09-22
   content: Thrilled to be selected as a 2023 <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholar!</a>
 
+- date: 2022-09-16
+  content: Paper on <a href="https://uchicago-sandlab.github.io/naturalbackdoors/" target="_blank" class="blog-post-title">finding naturally occuring backdoor datasets</a> accepted to NeurIPS Datasets and Benchmarks 2022!
+
 - date: 2022-09-14
-  content: Papers on <a href="https://uchicago-sandlab.github.io/naturalbackdoors/" target="_blank" class="blog-post-title">finding naturally occuring backdoor datasets</a> AND <a href="https://arxiv.org/abs/2207.04785" target="_blank" class="blog-post-title">attacking lattice cryptography with transformers</a> accepted to NeurIPS 2022!
+  content: Paper on <a href="https://arxiv.org/abs/2207.04785" target="_blank" class="blog-post-title">attacking lattice cryptography with transformers</a> accepted to NeurIPS 2022!
 
 - date: 2022-09-01
   content: Selected as a member of the <a href="https://risingstars.utexas.edu/" target="_blank" class="blog-post-title">EECS Rising Stars 2022</a> cohort.
