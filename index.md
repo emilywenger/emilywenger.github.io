@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/wenger_headshot_final.jpg
+  src: /assets/img/ewenger_headshot.jpg
   alt: website picture
 ---
 
