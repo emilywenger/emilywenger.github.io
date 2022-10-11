@@ -16,7 +16,7 @@ publications:
   paperlink: https://arxiv.org/pdf/2207.04785.pdf
   codelink: NA
 
-- title: Finding Naturally Occuring Physical Backdoors in Image Datasets
+- title: Finding Naturally Occurring Physical Backdoors in Image Datasets
   authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
   conference: Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), November 2022 (to appear)
   paperlink: https://arxiv.org/pdf/2206.10673.pdf
