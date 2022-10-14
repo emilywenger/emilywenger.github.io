@@ -8,7 +8,7 @@ updates:
   content: Thrilled to be selected as a 2023 <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholar!</a>
 
 - date: 2022-09-16
-  content: Paper on <a href="https://uchicago-sandlab.github.io/naturalbackdoors/" target="_blank" class="blog-post-title">finding naturally occuring backdoor datasets</a> accepted to NeurIPS Datasets and Benchmarks 2022!
+  content: Paper on <a href="https://uchicago-sandlab.github.io/naturalbackdoors/" target="_blank" class="blog-post-title">finding naturally occuring backdoor datasets</a> accepted to NeurIPS 2022!
 
 - date: 2022-09-14
   content: Paper on <a href="https://arxiv.org/abs/2207.04785" target="_blank" class="blog-post-title">attacking lattice cryptography with transformers</a> accepted to NeurIPS 2022!
@@ -17,7 +17,7 @@ updates:
   content: Selected as a member of the <a href="https://risingstars.utexas.edu/" target="_blank" class="blog-post-title">EECS Rising Stars 2022</a> cohort.
 
 - date: 2022-08-15
-  content: Paper on post-breach model recovery accepted to CCS 2022!
+  content: Paper on <a href="https://arxiv.org/pdf/2205.10686.pdf" target="_blank">post-breach model recovery</a> accepted to CCS 2022!
   
 - date: 2022-06-06
   content: Honored to receive a University of Chicago Harper Dissertation fellowship.
@@ -26,10 +26,10 @@ updates:
   content: Paper on defenses against black box adversarial attacks accepted to USENIX 2022!
 
 - date: 2021-09-20
-  content: Starting at FAIR, working with Kristin Lauter.
+  content: Starting at FAIR, working with Kristin Lauter and Francois Charton.
 
 - date: 2021-09-10
-  content: The <a href="https://detroit.sciencegallery.com/tracked-traced" target="_blank" class="blog-post-title">Tracked and Traced</a> exhibit, which I helped curate, opened at Science Gallery Detroit.
+  content: <a href="https://detroit.sciencegallery.com/tracked-traced" target="_blank" class="blog-post-title">Tracked and Traced</a> exhibit, which I helped curate, opened at Science Gallery Detroit.
 
 - date: 2021-09-06
   content: Voice cloning attacks paper accepted to CCS 2021!

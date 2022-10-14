@@ -9,6 +9,8 @@ publications:
   conference: Proceedings of the 44th IEEE Symposium on Security and Privacy (SP), May 2023 (to appear)
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
+  image:
+    src: ./assets/img/emily-pic.jpg 
 
 - title: SALSA - Attacking Lattice Cryptography with Transformers
   authors: <u>Emily Wenger*</u>, Mingjie Chen*, Francois Charton, Kristin Lauter

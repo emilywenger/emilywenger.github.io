@@ -33,12 +33,16 @@
           <h1 class="page-heading">Preprints</h1>
           {% for item in page.preprints %}
           <div class="work-item">
-            <!-- <img -->
-            <!--   src="{{ item.image.src | absolute_url }}" -->
-            <!--   alt="{{ item.image.alt }}" -->
-            <!--   class="work-bubble" -->
-            <!-- /> -->
-            <span class="work-text">
+            <!-- <img
+             src="{{ item.image.src | absolute_url }}" 
+             alt="{{ item.image.alt }}" 
+            />  --> 
+            <!-- <span class="work-text">
+              <img 
+              class="work-bubble"
+              src="./assets/img/ewenger_headshot.jpg" 
+              alt="test" 
+            /> -->
               <strong>{{ item.title }}</strong></br>
               {{ item.authors }}</br>
               <i>{{ item.conference }}</i></br>
