@@ -6,12 +6,12 @@ profile_picture:
 ---
 
 <p>
-I am a 5th year PhD candidate in the <a href="http://sandlab.cs.uchicago.edu" target="_blank">SAND Lab</a> at the University of Chicago, advised by Drs. <a href="http://people.cs.uchicago.edu/~ravenben/" target= "_blank">Ben Zhao</a> and <a href="http://people.cs.uchicago.edu/~htzheng/" target="_blank">Heather Zheng</a>. 
+I am a 5th year Ph.D. candidate in the <a href="http://sandlab.cs.uchicago.edu" target="_blank">SAND Lab</a> at the University of Chicago, advised by <a href="http://people.cs.uchicago.edu/~ravenben/" target= "_blank">Ben Zhao</a> and <a href="http://people.cs.uchicago.edu/~htzheng/" target="_blank">Heather Zheng</a>. 
 </p>
 
 
 <p>
-My research explores the practical limitations, privacy violations, and security threats of deep neural networks.
+My research aims to <em>make machine learning models safer</em> while building <em>tools that increase individuals' agency</em> in their interactions with models. 
 </p>
 
 <p>
