@@ -11,7 +11,7 @@ I am a 5th year Ph.D. candidate in the <a href="http://sandlab.cs.uchicago.edu" 
 
 
 <p>
-My research aims to <em>make machine learning models safer</em> while building <em>tools that increase individuals' agency</em> in their interactions with models. 
+I research ways to <em>make machine learning models safer</em> and build tools that <em>increase individuals' agency</em> in their interactions with models. 
 </p>
 
 <p>
