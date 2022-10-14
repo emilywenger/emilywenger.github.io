@@ -3,10 +3,10 @@
 
 title: Emily Wenger
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Emily Wenger's personal website.
 baseurl: "" #"/" #"/emilywenger.github.io" # the subpath of the site
 url: "https://www.emilywenger.com" #"https://emilywenger.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/emily-pic.jpg
+og_image: /assets/img/ewenger_headshot.jpg
 google_analytics: "UA-121636368-3"
 
 header:
