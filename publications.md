@@ -24,7 +24,7 @@ publications:
 
 - title: Post-breach Recovery - Protection against White-Box Adversarial Examples for Leaked DNN Models
   authors: Shawn Shan, Wenxin Ding, <u>Emily Wenger</u>, Haitao Zheng, Ben Y. Zhao
-  conference: Proceedings of the ACM Conference on Computer and Communications Security (CCS), November 2022 (to appear)
+  conference: Proceedings of the ACM Conference on Computer and Communications Security (CCS), November 2022
   paperlink: https://arxiv.org/pdf/2205.10686.pdf
   codelink: NA
 
