@@ -9,18 +9,16 @@ publications:
   conference: Proceedings of the 44th IEEE Symposium on Security and Privacy (SP), May 2023 (to appear)
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
-  image:
-    src: ./assets/img/emily-pic.jpg 
 
 - title: SALSA - Attacking Lattice Cryptography with Transformers
   authors: <u>Emily Wenger*</u>, Mingjie Chen*, Francois Charton, Kristin Lauter
-  conference: Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), November 2022 (to appear)
+  conference: Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), November 2022
   paperlink: https://arxiv.org/pdf/2207.04785.pdf
   codelink: NA
 
 - title: Finding Naturally Occurring Physical Backdoors in Image Datasets
   authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
-  conference: Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), November 2022 (to appear)
+  conference: Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), November 2022
   paperlink: https://arxiv.org/pdf/2206.10673.pdf
   codelink: https://uchicago-sandlab.github.io/naturalbackdoors/
 
@@ -61,6 +59,12 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
+- title: GLAZE - Protecting Artists from Style Mimicry by Text-to-Image Models
+  authors: Shawn Shan, Jenna Cryan, <u>Emily Wenger</u>, Haitao Zheng, Rana Hanocka, Ben Y. Zhao
+  conference: In Submission
+  paperlink: https://arxiv.org/pdf/2302.04222.pdf
+  codelink: NA
+
 - title: Data Isotopes for Data Provenance in DNNs
   authors: <u>Emily Wenger</u>, Xiuyu Li, Ben Y. Zhao, Vitaly Shmatikov
   conference: In Submission

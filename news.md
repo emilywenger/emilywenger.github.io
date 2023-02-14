@@ -60,6 +60,11 @@ updates:
 
 
 pressitems:
+- date: 2022-02-13
+  venue: The New York Time
+  title: This Tool Could Protect Artists From A.I.-Generated Art That Steals Their Style
+  link: https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html
+  paper: Glaze
 
 - date: 2021-03-01
   venue: MIT Technology Review
