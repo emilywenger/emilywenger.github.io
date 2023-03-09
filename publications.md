@@ -59,6 +59,12 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
+- title: SALSA PICANTE - A machine learning attack on LWE with binary secrets
+  authors: Cathy Li, Jana Sotakova, <u>Emily Wenger</u>, Mohamed Malou, Evrard Garcelon, Francois Charton, Kristin Lauter
+  conference: In Submission
+  paperlink: https://arxiv.org/pdf/2303.04178.pdf
+  codelink: NA
+
 - title: GLAZE - Protecting Artists from Style Mimicry by Text-to-Image Models
   authors: Shawn Shan, Jenna Cryan, <u>Emily Wenger</u>, Haitao Zheng, Rana Hanocka, Ben Y. Zhao
   conference: In Submission
