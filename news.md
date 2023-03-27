@@ -5,7 +5,7 @@ slug: /news
 
 updates:
 - date: 2023-03-27
-  content: Excited to serve on the PC for <a href="https://sp2024.ieee-security.org/" target="_blank>IEEE Security and Privacy 2024.</a>
+  content: Excited to serve on the PC for <a href="https://sp2024.ieee-security.org/" target="_blank">IEEE Security and Privacy 2024.</a>
   
 - date: 2022-09-22
   content: Thrilled to be selected as a 2023 <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholar!</a>
