@@ -4,6 +4,12 @@ title: News
 slug: /news
 
 updates:
+- date: 2023-05-08
+  content: Starting as a Research Scientist at Meta AI! Working on ML attacks on post-quantum crypto. 
+
+- date: 2023-04-20
+  content: Successfully defended my PhD!!
+  
 - date: 2023-03-27
   content: Excited to serve on the PC for <a href="https://sp2024.ieee-security.org/" target="_blank">IEEE Security and Privacy 2024.</a>
   
@@ -25,45 +31,8 @@ updates:
 - date: 2022-06-06
   content: Honored to receive a University of Chicago Harper Dissertation fellowship.
   
-- date: 2022-05-02
-  content: Paper on defenses against black box adversarial attacks accepted to USENIX 2022!
-
-- date: 2021-09-20
-  content: Starting at FAIR, working with Kristin Lauter and Francois Charton.
-
-- date: 2021-09-10
-  content: <a href="https://detroit.sciencegallery.com/tracked-traced" target="_blank" class="blog-post-title">Tracked and Traced</a> exhibit, which I helped curate, opened at Science Gallery Detroit.
-
-- date: 2021-09-06
-  content: Voice cloning attacks paper accepted to CCS 2021!
-
-- date: 2021-06-25
-  content: Gave a talk for MSR's Privacy and Cryptography group.	
-
-- date: 2021-03-02
-  content: Physical Backdoor paper accepted to CVPR 2021!
-
-- date: 2021-02-28
-  content: Honored to be chosen as a <a href="https://msfdn.org/harveyfellows/overview/" target="_blank" class="blog-post-title">Harvey Fellow</a>.
-
-- date: 2020-11-12
-  content: Honeypots paper presented at CCS 2020!
-
-- date: 2020-08-10
-  content: Presented Fawkes at USENIX Security 2020!
-
-- date: 2019-12-02
-  content: Participated in MSR's <a href="https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-competition-team-7/" target="_blank">Private AI Boot Camp</a>.
-
-- date: 2019-10-30
-  content: Invited talk at Stanford EE380 Colloquium on <a href="https://ee.stanford.edu/event/seminar/ee380-computer-systems-colloquium-presents-persistent -and-unforgeable-watermarks" target="_blank">watermarking Deep Neural Networks</a>.
-
-- date: 2018-09-01
-  content: Started at the University of Chicago!
-
-
 pressitems:
-- date: 2022-02-13
+- date: 2023-02-13
   venue: The New York Times
   title: This Tool Could Protect Artists From A.I.-Generated Art That Steals Their Style
   link: https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html

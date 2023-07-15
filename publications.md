@@ -4,6 +4,12 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- title: GLAZE - Protecting Artists from Style Mimicry by Text-to-Image Models
+  authors: Shawn Shan, Jenna Cryan, <u>Emily Wenger</u>, Haitao Zheng, Rana Hanocka, Ben Y. Zhao
+  conference: Proceedings of the 32nd USENIX Security Symposium, August 2023
+  paperlink: https://arxiv.org/pdf/2302.04222.pdf
+  codelink: https://glaze.cs.uchicago.edu/
+
 - title: SoK - Anti-Facial Recognition Technology
   authors: <u>Emily Wenger</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao
   conference: Proceedings of the 44th IEEE Symposium on Security and Privacy (SP), May 2023 (to appear)
@@ -14,7 +20,7 @@ publications:
   authors: <u>Emily Wenger*</u>, Mingjie Chen*, Francois Charton, Kristin Lauter
   conference: Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), November 2022
   paperlink: https://arxiv.org/pdf/2207.04785.pdf
-  codelink: NA
+  codelink: https://github.com/facebookresearch/SALSA
 
 - title: Finding Naturally Occurring Physical Backdoors in Image Datasets
   authors: <u>Emily Wenger*</u>, Roma Bhattacharjee*, Arjun Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao
@@ -59,16 +65,16 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
+- title: SALSA VERDE - A machine learning attack on LWE with small sparse secrets
+  authors: Cathy Li, Jana Sotakova, <u>Emily Wenger</u>, Zeyuan Allen-Zhu, Francois Charton, Kristin Lauter
+  conference: In Submission
+  paperlink: https://arxiv.org/abs/2306.11641
+  codelink: NA
+
 - title: SALSA PICANTE - A machine learning attack on LWE with binary secrets
   authors: Cathy Li, Jana Sotakova, <u>Emily Wenger</u>, Mohamed Malou, Evrard Garcelon, Francois Charton, Kristin Lauter
   conference: In Submission
   paperlink: https://arxiv.org/pdf/2303.04178.pdf
-  codelink: NA
-
-- title: GLAZE - Protecting Artists from Style Mimicry by Text-to-Image Models
-  authors: Shawn Shan, Jenna Cryan, <u>Emily Wenger</u>, Haitao Zheng, Rana Hanocka, Ben Y. Zhao
-  conference: In Submission
-  paperlink: https://arxiv.org/pdf/2302.04222.pdf
   codelink: NA
 
 - title: Data Isotopes for Data Provenance in DNNs
