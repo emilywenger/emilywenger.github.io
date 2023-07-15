@@ -5,7 +5,7 @@ slug: /news
 
 updates:
 - date: 2023-05-08
-  content: Starting as a Research Scientist at Meta AI! Working on ML attacks on post-quantum crypto. 
+  content: Starting as a Research Scientist at Meta AI!
 
 - date: 2023-04-20
   content: Successfully defended my PhD!!
