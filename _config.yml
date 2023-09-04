@@ -25,11 +25,6 @@ footer:
       value: ewenger@uchicago.edu
       link: mailto:ewenger@uchicago.edu
   follow:
-    - name: Twitter
-      link: http://twitter.com/em_wenger
-      username: "@em_wenger"
-    - name: Facebook
-      link: http://facebook.com/EmilyWenger
     - name: LinkedIn
       link: http://linkedin.com/in/ewillson
     - name: GitHub
