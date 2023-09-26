@@ -32,6 +32,18 @@ updates:
   content: Honored to receive a University of Chicago Harper Dissertation fellowship.
   
 pressitems:
+- date: 2023-09-11
+  venue: Newsweek
+  title: How AI and Quantum Computing are Challenging the Security of Our Digital Future
+  linK: https://www.newsweek.com/how-ai-quantum-computing-are-challenging-security-our-digital-future-1825628
+  paper: SALSA PICANTE
+
+- date: 2023-06-18
+  venue: BBC
+  title: Can Artists Protect Their Work from AI?
+  link: https://www.youtube.com/watch?v=DUwDqSY8StE
+  paper: Glaze
+
 - date: 2023-02-13
   venue: The New York Times
   title: This Tool Could Protect Artists From A.I.-Generated Art That Steals Their Style
