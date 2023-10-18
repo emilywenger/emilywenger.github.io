@@ -30,7 +30,7 @@ publications:
 
 - title: SoK - Anti-Facial Recognition Technology
   authors: <u>Emily Wenger</u>, Shawn Shan, Haitao Zheng, Ben Y. Zhao
-  conference: Proceedings of the 44th IEEE Symposium on Security and Privacy (SP), May 2023 (to appear)
+  conference: Proceedings of the 44th IEEE Symposium on Security and Privacy (SP), May 2023
   paperlink: https://arxiv.org/pdf/2112.04558.pdf
   codelink: NA
 
