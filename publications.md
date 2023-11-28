@@ -11,7 +11,7 @@ publications:
   codelink: https://github.com/uchicago-sandlab/dataisotopes
 
 - title: SALSA VERDE - A machine learning attack on LWE with small sparse secrets
-  authors: Cathy Li, Jana Sotakova, <u>Emily Wenger</u>, Zeyuan Allen-Zhu, Francois Charton, Kristin Lauter
+  authors: Cathy Li, <u>Emily Wenger</u>, Zeyuan Allen-Zhu, Francois Charton, Kristin Lauter
   conference: Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), November 2023
   paperlink: https://arxiv.org/abs/2306.11641
   codelink: NA
