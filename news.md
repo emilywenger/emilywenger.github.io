@@ -4,6 +4,9 @@ title: News
 slug: /news
 
 updates:
+- date: 2023-11-28
+  content: Honored to be part of the <a href="https://www.forbes.com/30-under-30/2024/consumer-technology" target="_blank">Forbes 30 under 30 class of 2024</a>.
+  
 - date: 2023-05-08
   content: Starting as a Research Scientist at Meta AI!
 

@@ -17,7 +17,7 @@ publications:
   codelink: NA
 
 - title: SALSA PICANTE - A machine learning attack on LWE with binary secrets
-  authors: Cathy Li, Jana Sotakova, <u>Emily Wenger</u>, Mohamed Malou, Evrard Garcelon, Francois Charton, Kristin Lauter
+  authors: Cathy Li, Jana Sotakova, <u>Emily Wenger</u>, Mohamed Malhou, Evrard Garcelon, Francois Charton, Kristin Lauter
   conference: Proceedings of the ACM Conference on Computer and Communications Security (CCS), November 2023
   paperlink: https://arxiv.org/pdf/2303.04178.pdf
   codelink: NA
