@@ -39,7 +39,7 @@ pressitems:
   venue: Newsweek
   title: How AI and Quantum Computing are Challenging the Security of Our Digital Future
   link: https://www.newsweek.com/how-ai-quantum-computing-are-challenging-security-our-digital-future-1825628
-  paper: SALSA PICANTE
+  paper: SALSA
 
 - date: 2023-06-18
   venue: BBC
