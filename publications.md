@@ -4,6 +4,11 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- title: The Cool and the Cruel - Separating Hard Parts of LWE Secrets
+  authors: Niklas Nolte*, Mohamed Malhou*, <u>Emily Wenger*</u>, Samuel Stevens, Cathy Li, Francois Charton, Kristin Lauter
+  conference: Proceedings of AFRICACRYPT, July 2024
+  paperlink: https://arxiv.org/abs/2403.10328 
+
 - title: Data Isotopes for Data Provenance in DNNs
   authors: <u>Emily Wenger</u>, Xiuyu Li, Ben Y. Zhao, Vitaly Shmatikov
   conference: Proceedings of Privacy Enhancing Technologies Symposium (PETS), July 2024
@@ -83,6 +88,11 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:  
+- title: SALSA Fresca - Angular Embeddings and Pre-Training for ML Attacks on LWE
+  authors: Samuel Stevens, <u>Emily Wenger</u>, Cathy Li, Eshika Saxena, Francois Charton, Kristin Lauter
+  conference: In Submission
+  paperlink: https://arxiv.org/html/2402.01082v1
+
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
   authors: <u>Emily Wenger</u>, Francesca Falzon, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
   conference: In Submission
