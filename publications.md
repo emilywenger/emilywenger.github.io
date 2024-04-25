@@ -8,6 +8,7 @@ publications:
   authors: Niklas Nolte*, Mohamed Malhou*, <u>Emily Wenger*</u>, Samuel Stevens, Cathy Li, Francois Charton, Kristin Lauter
   conference: Proceedings of AFRICACRYPT, July 2024
   paperlink: https://arxiv.org/abs/2403.10328 
+  codelink: NA
 
 - title: Data Isotopes for Data Provenance in DNNs
   authors: <u>Emily Wenger</u>, Xiuyu Li, Ben Y. Zhao, Vitaly Shmatikov
@@ -92,6 +93,7 @@ preprints:
   authors: Samuel Stevens, <u>Emily Wenger</u>, Cathy Li, Eshika Saxena, Francois Charton, Kristin Lauter
   conference: In Submission
   paperlink: https://arxiv.org/html/2402.01082v1
+  codelink: NA
 
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
   authors: <u>Emily Wenger</u>, Francesca Falzon, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
