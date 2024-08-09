@@ -4,6 +4,9 @@ title: News
 slug: /news
 
 updates:
+- date: 2024-08-1
+  content: Starting as an Assistant Professor at Duke University!
+
 - date: 2023-11-28
   content: Honored to be part of the <a href="https://www.forbes.com/30-under-30/2024/consumer-technology" target="_blank">Forbes 30 under 30 class of 2024</a>.
   
@@ -35,6 +38,11 @@ updates:
   content: Honored to receive a University of Chicago Harper Dissertation fellowship.
   
 pressitems:
+- date: 2024-07-26
+  venue: Nature
+  title: AI produces gibberish when trained on too much AI-generated data
+  link: https://www.nature.com/articles/d41586-024-02355-z
+
 - date: 2023-09-11
   venue: Newsweek
   title: How AI and Quantum Computing are Challenging the Security of Our Digital Future
@@ -77,6 +85,6 @@ pressitems:
   link: https://www.vice.com/en/article/m7qxwq/researchers-want-to-protect-your-selfies-from-facial-recognition
 
 ---
-
+<!-- 
 Some recent updates.
-<br />
+<br /> -->

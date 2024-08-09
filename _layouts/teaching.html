@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="work">
+          <h1 class="page-heading">Classes Taught</h1>
+          {{ content }}
+          {% for item in page.classes %}
+          <div class="work-item">
+            <span class="work-text">
+              <span class="blog-post-date">{{item.semester}}</span>
+              <strong>{{ item.title }}</strong></br>
+              {% if item.link != "NA" %}
+                  <a href={{ item.link }} target="_blank" class="work-button">Course website</a>
+              {% endif %}
+            </span>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
