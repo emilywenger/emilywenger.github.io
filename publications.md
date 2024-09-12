@@ -4,6 +4,9 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- title: Benchmarking Attacks on Learning with Errors                                                                                                                                                                                                                                                                                                                                         authors: <u> Emily Wenger</u>, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter                                                                                                                                                                                                                                                                                                   conference: Proceedings of the 46th IEEE Symposium on Security and Privacy (SP), May 2025
+  paperlink: https://eprint.iacr.org/2024/1229                                                                                                                                                                                                                                                                                                                                                codelink: https://github.com/facebookresearch/LWE-benchmarking                                                                                                                                                                                                                                                                                                                            
+
 - title: The Cool and the Cruel - Separating Hard Parts of LWE Secrets
   authors: Niklas Nolte*, Mohamed Malhou*, <u>Emily Wenger*</u>, Samuel Stevens, Cathy Li, Francois Charton, Kristin Lauter
   conference: Proceedings of AFRICACRYPT, July 2024
@@ -89,12 +92,6 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:  
-- title: Benchmarking Attacks on Learning with Errors
-  authors: <u> Emily Wenger</u>, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter
-  conference: In Submission
-  paperlink: https://eprint.iacr.org/2024/1229 
-  codelink: https://github.com/facebookresearch/LWE-benchmarking
-
 - title: SALSA Fresca - Angular Embeddings and Pre-Training for ML Attacks on LWE
   authors: Samuel Stevens, <u>Emily Wenger</u>, Cathy Li, Eshika Saxena, Francois Charton, Kristin Lauter
   conference: In Submission
