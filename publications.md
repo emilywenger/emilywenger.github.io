@@ -4,8 +4,11 @@ title: Conference Publications
 slug: /publications
 publications:
 
-- title: Benchmarking Attacks on Learning with Errors                                                                                                                                                                                                                                                                                                                                         authors: <u> Emily Wenger</u>, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter                                                                                                                                                                                                                                                                                                   conference: Proceedings of the 46th IEEE Symposium on Security and Privacy (SP), May 2025
-  paperlink: https://eprint.iacr.org/2024/1229                                                                                                                                                                                                                                                                                                                                                codelink: https://github.com/facebookresearch/LWE-benchmarking                                                                                                                                                                                                                                                                                                                            
+- title: Benchmarking Attacks on Learning with Errors
+  authors: <u> Emily Wenger</u>, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter
+  conference: Proceedings of the 46th IEEE Symposium on Security and Privacy (SP), May 2025
+  paperlink: https://eprint.iacr.org/2024/1229
+  codelink: https://github.com/facebookresearch/LWE-benchmarking
 
 - title: The Cool and the Cruel - Separating Hard Parts of LWE Secrets
   authors: Niklas Nolte*, Mohamed Malhou*, <u>Emily Wenger*</u>, Samuel Stevens, Cathy Li, Francois Charton, Kristin Lauter
