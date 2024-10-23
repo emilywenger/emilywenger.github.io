@@ -6,8 +6,14 @@ profile_picture:
 ---
 
 <p>
-I am an Assistant Professor of Electrical and Computer Engineering at Duke University. I research security and privacy issues related to machine learning models. 
+I am an Assistant Professor of Electrical and Computer Engineering at Duke University, where I run the <a href="https://arguslab.pratt.duke.edu/" target="_blank">ARGUS Lab</a>. Our lab researches topics related to AI, security, and society.
 
 <p>
-In 2023, I graduated with my PhD from the University of Chicago, where I worked in the <a href="http://sandlab.cs.uchicago.edu" target="_blank">SAND Lab</a> and was advised by <a href="http://people.cs.uchicago.edu/~ravenben/" target= "_blank">Ben Zhao</a> and <a href="http://people.cs.uchicago.edu/~htzheng/" target="_blank">Heather Zheng</a>. During my PhD, I received the <a href="https://stemfellowships.org/" target="_blank">GFSD</a>, <a href="https://msfdn.org/harveyfellows/overview/" target="_blank">Harvey</a>, and University of Chicago <a href="https://grad.uchicago.edu/fellowships/neubauer-fellows/" target="_blank">Neubauer</a> and <a href="https://physicalsciences.uchicago.edu/news/article/psd-recognizes-nine-students-with-a-william-rainey-harper-dissertation-fellowship-22/" target="_blank">Harper Dissertation</a> fellowships, as well as a <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholarship</a>. I was also named to the <a href="https://www.forbes.com/30-under-30/2024/consumer-technology" target="_blank">2024 Forbes 30 under 30</a> list for my work on Glaze, a tool that protects artists' work from unwanted use in generative AI models.
+I obtained my PhD from the <a href="https://sandlab.cs.uchicago.edu/" target="_blank">University of Chicago</a>. My research has been featured by numerous media outlets including CNN, NBC, the New York Times, and the BBC, and has received several awards, including a <a href="https://stemfellowships.org/" target="_blank">GFSD</a> fellowship, <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholarship</a>, and the University of Chicago Harper Dissertation award. I was also named to the <a href="https://www.forbes.com/30-under-30/2024/consumer-technology" target="_blank">2024 Forbes 30 under 30</a> list for my work on Glaze, a tool that protects artists' work from unwanted use in generative AI models.
 </p>
+
+  <div class="job-button">
+            <b>I am hiring 1-2 PhD students in the 2024-2025 application cycle.</b>
+            <br>I am also always looking for motivated Duke undergraduate and masters students to join the lab.
+            <br>If you're interested in working with me/my lab, please email me.
+          </div> 
