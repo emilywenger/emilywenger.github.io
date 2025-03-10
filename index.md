@@ -11,9 +11,3 @@ I am an Assistant Professor of Electrical and Computer Engineering at Duke Unive
 <p>
 I obtained my PhD from the <a href="https://sandlab.cs.uchicago.edu/" target="_blank">University of Chicago</a>. My research has been featured by numerous media outlets including CNN, NBC, the New York Times, and the BBC, and has received several awards, including a <a href="https://stemfellowships.org/" target="_blank">GFSD</a> fellowship, <a href="https://www.siebelscholars.com/scholar-profile/3715/" target="_blank">Siebel Scholarship</a>, and the University of Chicago Harper Dissertation award. I was also named to the <a href="https://www.forbes.com/30-under-30/2024/consumer-technology" target="_blank">2024 Forbes 30 under 30</a> list for my work on Glaze, a tool that protects artists' work from unwanted use in generative AI models.
 </p>
-
-  <div class="job-button">
-            <b>I am hiring 1-2 PhD students in the 2024-2025 application cycle.</b>
-            <br>I am also always looking for motivated Duke undergraduate and masters students to join the lab.
-            <br>If you're interested in working with me/my lab, please email me.
-          </div> 

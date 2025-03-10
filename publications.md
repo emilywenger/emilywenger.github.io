@@ -4,6 +4,12 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- title: SALSA Fresca - Angular Embeddings and Pre-Training for ML Attacks on LWE
+  authors: Samuel Stevens, <u>Emily Wenger</u>, Cathy Li, Eshika Saxena, Francois Charton, Kristin Lauter
+  conference: Transactions on Machine Learning Research (TMLR)
+  paperlink: https://arxiv.org/html/2402.01082v1
+  codelink: NA
+
 - title: Benchmarking Attacks on Learning with Errors
   authors: <u> Emily Wenger</u>, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter
   conference: Proceedings of the 46th IEEE Symposium on Security and Privacy (SP), May 2025
@@ -94,11 +100,12 @@ publications:
   paperlink: https://arxiv.org/pdf/1904.08554.pdf
   codelink: https://github.com/Shawn-Shan/trapdoor
 
-preprints:  
-- title: SALSA Fresca - Angular Embeddings and Pre-Training for ML Attacks on LWE
-  authors: Samuel Stevens, <u>Emily Wenger</u>, Cathy Li, Eshika Saxena, Francois Charton, Kristin Lauter
+preprints:
+
+- title: We're Different, We're the Same - Creative Homogeneity in Large Language Models
+  authors: <u>Emily Wenger</u>, Yoed N. Kenett
   conference: In Submission
-  paperlink: https://arxiv.org/html/2402.01082v1
+  paperlink: https://arxiv.org/pdf/2501.19361
   codelink: NA
 
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
