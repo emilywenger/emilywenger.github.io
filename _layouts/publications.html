@@ -10,51 +10,45 @@
         <div class="work">
           <h1 class="page-heading">Conference Publications</h1>
           {{ content }}
-          {% for item in page.publications %}
-          <div class="work-item">
-            <span class="work-text">
-              <strong>{{ item.title }}</strong></br>
-              {{ item.authors }}</br>
-              <i>{{ item.conference }}</i></br>
-              {% if item.paperlink != "NA" %}
-                  <a href={{ item.paperlink }} target="_blank" class="work-button">PDF</a>
-              {% endif %}
-              {% if item.codelink != "NA" %}
-                  <a href={{ item.codelink }} target="_blank"
-                     class="work-button">Code</a>
-              {% endif %}
-            </span>
+            {% assign grouped_publications = page.publications | group_by: "year" %}
+            {% for group in grouped_publications %}
+            <h2>{{ group.name }}</h2>
+              {% for item in group.items %}
+              <div class="work-item">
+                <span class="work-text">
+                  <strong>{{ item.title }}</strong></br>
+                  {{ item.authors }}</br>
+                  <i>{{ item.conference }}</i></br>
+                  {% if item.paperlink != "NA" %}
+                    <a href={{ item.paperlink }} target="_blank" class="work-button">PDF</a>
+                  {% endif %}
+                  {% if item.codelink != "NA" %}
+                    <a href={{ item.codelink }} target="_blank" class="work-button">Code</a>
+                  {% endif %}
+                </span>
+              </div>
+              {% endfor %}
+            <hr>
+            {% endfor %}
           </div>
-          {% endfor %}
-        </div>
-        <hr>
-        </br>
-        <div class="work">
-          <h1 class="page-heading">Preprints</h1>
-          {% for item in page.preprints %}
-          <div class="work-item">
-            <!-- <img
-             src="{{ item.image.src | absolute_url }}" 
-             alt="{{ item.image.alt }}" 
-            />  --> 
-            <!-- <span class="work-text">
-              <img 
-              class="work-bubble"
-              src="./assets/img/ewenger_headshot.jpg" 
-              alt="test" 
-            /> -->
-              <strong>{{ item.title }}</strong></br>
-              {{ item.authors }}</br>
-              <i>{{ item.conference }}</i></br>
-              {% if item.paperlink != "NA" %}
-                  <a href={{ item.paperlink }} target="_blank" class="work-button">PDF</a>
-              {% endif %}
-              {% if item.codelink != "NA" %}
-                  <a href={{ item.codelink }} target="_blank"
-                     class="work-button">Code</a>
-              {% endif %}
-            </span>
-          </div>
+          </br>
+          <div class="work">
+            <h1 class="page-heading">Preprints</h1>
+            {% for item in page.preprints %}
+            <div class="work-item">
+              <span class="work-text">
+                <strong>{{ item.title }}</strong></br>
+                {{ item.authors }}</br>
+                <i>{{ item.conference }}</i></br>
+                {% if item.paperlink != "NA" %}
+                <a href={{ item.paperlink }} target="_blank" class="work-button">PDF</a>
+                {% endif %}
+                {% if item.codelink != "NA" %}
+                <a href={{ item.codelink }} target="_blank"
+                class="work-button">Code</a>
+                {% endif %}
+              </span>
+            </div>
           {% endfor %}
         </div>
       </div>
