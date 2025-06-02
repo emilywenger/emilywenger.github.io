@@ -124,6 +124,23 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
+- title: Exploring Causes of Representational Similarity in Machine Learning Models
+  authors: Zeyu Michael Li*, Hung Ahn Vu*, Damilola Awofisayo, <u>Emily Wenger</u>
+  conference: In Submission
+  paperlink: https://arxiv.org/abs/2505.13899
+  codelink: NA
+
+- title: What Happens when Generative Models Train Recursively on Each Others' Generated Outputs? 
+  authors: Hung Ahn Vu, Galen Reeves, <u>Emily Wenger</u>
+  conference: In Submission
+  paperlink: https://arxiv.org/abs/2505.21677
+  codelink: NA
+
+- title: Scrapers Selectively Respect robots.txt Directives - Evidence from a Large-Scale Empirical Study
+  authors: Taein Kim, Karstan Bock, Claire Luo, Amanda Liswood, <u>Emily Wenger</u>
+  conference: In Submission
+  paperlink: https://arxiv.org/abs/2505.21733
+  codelink: NA
 
 - title: We're Different, We're the Same - Creative Homogeneity in Large Language Models
   authors: <u>Emily Wenger</u>, Yoed N. Kenett
