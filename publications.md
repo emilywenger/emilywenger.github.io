@@ -4,6 +4,20 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- title: Scrapers Selectively Respect robots.txt Directives - Evidence from a Large-Scale Empirical Study
+  authors: Taein Kim, Karstan Bock, Claire Luo, Amanda Liswood, Chloe Poroslay, <u>Emily Wenger</u>
+  conference: Proceedings of the ACM Internet Measurement Conference (IMC)
+  year: 2025
+  paperlink: https://arxiv.org/abs/2505.21733
+  codelink: NA
+
+- title: TAPAS - Datasets for Learning the Learning with Errors Problem
+  authors: Eshika Saxena, Alberto Alfarano, Francois Charton, <u>Emily Wenger</u>, Kristin Lauter
+  conference: Proceedings of Neural Information Processing Systems (NeurIPS)
+  year: 2025
+  paperlink: NA
+  codelink: NA
+
 - title: Making Hard Problems Easier with Custom Data Distributions and Loss Regularization - A Case Study in Modular Arithmetic
   authors: Eshika Saxena, Alberto Alfarano, <u>Emily Wenger</u>, Kristin Lauter
   conference: Proceedings of the International Conference on Machine Learning (ICML)
@@ -134,12 +148,6 @@ preprints:
   authors: Hung Ahn Vu, Galen Reeves, <u>Emily Wenger</u>
   conference: In Submission
   paperlink: https://arxiv.org/abs/2505.21677
-  codelink: NA
-
-- title: Scrapers Selectively Respect robots.txt Directives - Evidence from a Large-Scale Empirical Study
-  authors: Taein Kim, Karstan Bock, Claire Luo, Amanda Liswood, <u>Emily Wenger</u>
-  conference: In Submission
-  paperlink: https://arxiv.org/abs/2505.21733
   codelink: NA
 
 - title: We're Different, We're the Same - Creative Homogeneity in Large Language Models
