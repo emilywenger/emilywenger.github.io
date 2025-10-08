@@ -3,9 +3,9 @@ layout: teaching
 title: Teaching
 slug: /teaching
 classes:
-- semester: (Fall 2024)
+- semester: (Fall 2024, Fall 2025)
   title: ECE 590 - AI Security and Privacy 
-  link: https://ewenger.notion.site/ECE-590-AI-Security-and-Privacy-Fall-2024-c7cdd48430fd4322bc94ec9b0a14254b
+  link: https://ewenger.notion.site/ECE-590-AI-Security-and-Privacy-Fall-2025-209006faa2ec80a8a6a0eff15fda193a
 
 ---
 
