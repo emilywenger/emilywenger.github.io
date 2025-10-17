@@ -4,6 +4,13 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- Title: Improving ML attacks on LWE with data repetition and stepwise regression
+  Authors: Alberto Alfarano, Eshika Saxena, <u>Emily Wenger</u>, Francois Charton, Kristin E. Lauter
+  conference: NeurIPS Math AI Workshop
+  year: 2025
+  paperlink: NA
+  codelink: NA
+
 - title: Scrapers Selectively Respect robots.txt Directives - Evidence from a Large-Scale Empirical Study
   authors: Taein Kim, Karstan Bock, Claire Luo, Amanda Liswood, Chloe Poroslay, <u>Emily Wenger</u>
   conference: Proceedings of the ACM Internet Measurement Conference (IMC)
