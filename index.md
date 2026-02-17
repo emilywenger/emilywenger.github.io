@@ -12,23 +12,23 @@ I am an Assistant Professor of Electrical and Computer Engineering at Duke Unive
 I obtained my PhD from the <a href="https://sandlab.cs.uchicago.edu/" target="_blank">University of Chicago</a>. My research has been featured by numerous media outlets including CNN, NBC, the New York Times, and I was named to the <a href="https://www.forbes.com/30-under-30/2024/consumer-technology" target="_blank">2024 Forbes 30 under 30</a> list for my work on Glaze, a tool that protects artists' work from unwanted use in generative AI models.
 </p>
 
-<a href = "jensfineartfolio.com" style="display:none;">Jen's Fine Art Folio</a>
-<a href = "janettvlivo.com" style="display:none;">About Janett Vlivo</a>
-<a href = "trevorbmusic.com" style="display:none;">Trevor Bowier</a>
-<a href = "jamesredd42.com" style="display:none;">James Redd 42 LLC.</a>
-<a href = "ghworcross.com" style="display:none;">G. H. Worcross Inc.</a>
-<a href = "jandjship.com" style="display:none;">J and J Shipping</a>
-<a href = "vabrillerwines.com" style="display:none;">Va Briller Wines</a>
-<a href = "brennanolame.com" style="display:none;">Brennan Olame</a>
-<a href = "mayorwillidrud.com" style="display:none;">Tsvetko Willidrud</a>
-<a href = "orangepelicangame.com" style="display:none;">Orange Pelican Gaming Keyboards</a>
-<a href = "hawiseheat.com" style="display:none;">Hawise's Heat</a>
-<a href = "msjerseys.com" style="display:none;">Marlon Solis Jerseys Inc.</a>
-<a href = "shockthunder.com" style="display:none;">ShockThunder Energy Drinks</a>
-<a href = "drinknatrl.com" style="display:none;">Natrl Caffeine Smoothies</a>
-<a href = "ncsigmarket.com" style="display:none;">North Carolina State Farmer's Group Market</a>
-<a href = "purplelightningbug.com" style="display:none;">Purple Lightningbug Electronic Accessories</a>
-<a href = "molinariphd.com" style="display:none;">Dr. Reubin D. Molinari</a>
-<a href = "stoughtin.com" style="display:none;">Dr. Diana C. Stoughtin</a>
-<a href = "rhemenwae.com" style="display:none;">Dr. Robert S. Hemenwae</a>
-<a href = "huanphou.com" style="display:none;">Dr. Huan Paul Hou</a>
+<a href="https://janniearij.com/" style="opacity: 0;">Jannie Arij</a>
+<a href="https://martynairmaphotos.com/" style="opacity: 0;">Martyna Irma</a>
+<a href="https://merlincasandra.com/" style="opacity: 0;">Musician Merlin Casandra</a>
+<a href="https://mylahandgautbert.com/" style="opacity: 0;">Mylah and Gautbert LLC.</a>
+<a href="https://ninawilliamshipping.com/" style="opacity: 0;">Nina & William Shipping Inc.</a>
+<a href="https://vasearlaitwines.com/" style="opacity: 0;">Va Searlait Wines</a>
+<a href="https://jerryyaxkin.com/" style="opacity: 0;">Jerry Yaxkin</a>
+<a href="https://bhavanacokkie.com/" style="opacity: 0;">Bhavana Cokkie</a>
+<a href="https://greenmagnoliagaming.com/" style="opacity: 0;">Green Magnolia Gaming Keyboards</a>
+<a href="https://zarifaszest.com/" style="opacity: 0;">Zarifa's Zest</a>
+<a href="https://jozefcaelinajerseys.com/" style="opacity: 0;">Jozef Caelina Jerseys Inc.</a>
+<a href="https://ragelightning.com/" style="opacity: 0;">RageLightning Energy Drinks</a>
+<a href="https://mdsfgmarket.com/" style="opacity: 0;">The MDSFG Farmer's Market</a>
+<a href="https://mdsfgmarket.com/" style="opacity: 0;">The MDSFG Farmer's Market</a>
+<a href="https://orangemobicompway.com/" style="opacity: 0;">Orange Mobicompway Electronic Accessories</a>
+<a href="https://drtitusdciriaci.com/" style="opacity: 0;">Dr. Titus D. Ciriaci</a>
+<a href="https://sarahcgalenos.com/" style="opacity: 0;">Dr. Sarah C. Galenos</a>
+<a href="https://sybilivaylaphd.com/" style="opacity: 0;">Dr. Sybil S. Ivayla</a>
+<a href="https://odellpupasana.com/" style="opacity: 0;">Dr. Odell Prince Upasana</a>
+<a href="https://gwhoratia.com/" style="opacity: 0;">G. W. Horatia Inc.</a>
