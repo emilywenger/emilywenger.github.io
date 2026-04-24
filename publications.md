@@ -4,8 +4,22 @@ title: Conference Publications
 slug: /publications
 publications:
 
-- Title: Improving ML attacks on LWE with data repetition and stepwise regression
-  Authors: Alberto Alfarano, Eshika Saxena, <u>Emily Wenger</u>, Francois Charton, Kristin E. Lauter
+- title: What Happens when Generative Models Train Recursively on Each Other's Generated Outputs? 
+  authors: Hung Ahn Vu, Galen Reeves, <u>Emily Wenger</u>
+  conference: Proceedings of the International Conference on Learning Representations (ICLR)
+  paperlink: https://arxiv.org/abs/2505.21677
+  codelink: NA
+  year: 2026
+
+- title: Large Language Models are Homogeneously Creative
+  authors: <u>Emily Wenger</u>, Yoed N. Kenett
+  conference: PNAS Nexus
+  paperlink: https://academic.oup.com/pnasnexus/article/5/3/pgag042/8529001?login=false
+  codelink: NA
+  year: 2026
+
+- title: Improving ML attacks on LWE with data repetition and stepwise regression
+  authors: Alberto Alfarano, Eshika Saxena, <u>Emily Wenger</u>, Francois Charton, Kristin E. Lauter
   conference: NeurIPS Math AI Workshop
   year: 2025
   paperlink: NA
@@ -149,18 +163,6 @@ preprints:
   authors: Zeyu Michael Li*, Hung Ahn Vu*, Damilola Awofisayo, <u>Emily Wenger</u>
   conference: In Submission
   paperlink: https://arxiv.org/abs/2505.13899
-  codelink: NA
-
-- title: What Happens when Generative Models Train Recursively on Each Others' Generated Outputs? 
-  authors: Hung Ahn Vu, Galen Reeves, <u>Emily Wenger</u>
-  conference: In Submission
-  paperlink: https://arxiv.org/abs/2505.21677
-  codelink: NA
-
-- title: We're Different, We're the Same - Creative Homogeneity in Large Language Models
-  authors: <u>Emily Wenger</u>, Yoed N. Kenett
-  conference: In Submission
-  paperlink: https://arxiv.org/pdf/2501.19361
   codelink: NA
 
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
