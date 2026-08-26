@@ -4,10 +4,24 @@ title: Conference Publications
 slug: /publications
 publications:
 
+- title: Identifying AI Scrapers with Canary Tokens
+  authors: Steven Seiden, Triss Ren, Caroline Zhang, Taein Kim, Enze Liu, <u>Emily Wenger</u>
+  conference: Proceedings of ACM CCS
+  year: 2026
+  paperlink: https://arxiv.org/abs/2605.13706
+  codelink:  NA
+
+- title: Ordinary, Reasonable Chatbots - Do AI Models Track Human Legal Judgements? 
+  authors: Nirav Patel, <u>Emily Wenger</u>, Christopher Buccafusco
+  conference: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+  year: 2026
+  paperlink: https://arxiv.org/abs/2605.13706
+  codelink: NA
+
 - title: What Happens when Generative Models Train Recursively on Each Other's Generated Outputs? 
   authors: Hung Ahn Vu, Galen Reeves, <u>Emily Wenger</u>
   conference: Proceedings of the International Conference on Learning Representations (ICLR)
-  paperlink: https://arxiv.org/abs/2505.21677
+  paperlink: https://arxiv.org/abs/2505.21677å
   codelink: NA
   year: 2026
 
@@ -20,10 +34,17 @@ publications:
 
 - title: Improving ML attacks on LWE with data repetition and stepwise regression
   authors: Alberto Alfarano, Eshika Saxena, <u>Emily Wenger</u>, Francois Charton, Kristin E. Lauter
-  conference: NeurIPS Math AI Workshop
-  year: 2025
-  paperlink: NA
+  conference: Proceedings of the International Conference on Machine Learning (ICML)
+  year: 2026
+  paperlink: https://arxiv.org/abs/2604.03903 
   codelink: NA
+
+- title: Causes and Consequences of Representational Similarity in Machine Learning Models
+  authors: Zeyu Michael Li*, Hung Ahn Vu*, Damilola Awofisayo, <u>Emily Wenger</u>
+  conference: Proceedings of the International Conference on Machine Learning (ICML)
+  paperlink: https://arxiv.org/abs/2505.13899
+  codelink: NA
+  year: 2026
 
 - title: Scrapers Selectively Respect robots.txt Directives - Evidence from a Large-Scale Empirical Study
   authors: Taein Kim, Karstan Bock, Claire Luo, Amanda Liswood, Chloe Poroslay, <u>Emily Wenger</u>
@@ -159,11 +180,7 @@ publications:
   codelink: https://github.com/Shawn-Shan/trapdoor
 
 preprints:
-- title: Exploring Causes of Representational Similarity in Machine Learning Models
-  authors: Zeyu Michael Li*, Hung Ahn Vu*, Damilola Awofisayo, <u>Emily Wenger</u>
-  conference: In Submission
-  paperlink: https://arxiv.org/abs/2505.13899
-  codelink: NA
+
 
 - title: Assessing Privacy Risks from Feature Vector Reconstruction Attacks
   authors: <u>Emily Wenger</u>, Francesca Falzon, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
